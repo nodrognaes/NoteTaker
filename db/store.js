@@ -1,9 +1,13 @@
-// look up uuid (util.promisify)
-const uuid = require("uuid"); 
+// // look up uuid (util.promisify)
+// const { v4: uuidv4 } = require("uuid");
+// const util = require("util");
+// const fs = require("fs");
+// const db = require("./db.json");
 
 
-getNotes() {
-    return read().then {
-        // parse notes to return them as parsed notes
-    }
-} 
+// getNotes() {
+//     let note = JSON.stringify(db);
+//     fs.writeFileSync('./db.json', note)
+// }; 
+
+// module.exports = new Store()
