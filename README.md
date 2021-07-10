@@ -14,3 +14,6 @@ Hitting the "Get Started" button will take users to a blank note template and a 
 ## Demo:
 
 ![notetaker](https://user-images.githubusercontent.com/48900910/124840009-f590fa00-df57-11eb-8284-ef1f6d22d5fd.gif)
+
+  
+Deployed at (https://note-taker-sg.herokuapp.com/)[https://note-taker-sg.herokuapp.com/]
